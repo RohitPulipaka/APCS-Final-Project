@@ -5,4 +5,4 @@ This project is written in Java.
 
 The java files for each class created for this project has been included in this repository.
 
-The main method is in the following file: **Casino_Arcade.java**
+The main method is in the following file: *Casino_Arcade.java*
